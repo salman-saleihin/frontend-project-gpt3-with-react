@@ -35,6 +35,9 @@ const Feature = () => {
                  {featuresData.map ((item,index) =>(
                     <Features title={item.title} text={item.text} key={item.title + index} ></Features>
                  ) )} 
+
+
+                 
                 
             </div>
         </div>
