@@ -1,3 +1,4 @@
+![React-GPT-3-Project](https://user-images.githubusercontent.com/114747491/214017333-56eaa481-c49a-4dbf-82f1-2c9b4524932b.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
